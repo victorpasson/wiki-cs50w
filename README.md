@@ -16,7 +16,7 @@ Obs: Nessa plataforma, não será possível criar novas páginas nem editar as e
 
 ## Youtube Vídeo
 
-Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado no ![YouTube](www.youtube.com/watch?v=u0peDMCmqAE&t).
+Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado no [YouTube](https://www.youtube.com/watch?v=u0peDMCmqAE&t).
 
 ## Especificações do projeto
 
