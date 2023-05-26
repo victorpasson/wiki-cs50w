@@ -27,7 +27,7 @@ Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado 
 
 2. **Página Principal** - atualize *index.html*. Ao invés da página inicíal só apresentar uma lista com o nome de todas as páginas da enciclopédia, ao usuário deve ser habilitado clicar e ser redirecionado para a página solicitada.
     
-3. **Pesquisa** - permite que o usuário escreva uma entrada de pesquisa para as páginas da enciclopédia.
+3. **Pesquisa** - permita que o usuário escreva uma entrada de pesquisa para as páginas da enciclopédia.
     * Se a entrada corresponder ao nome de uma entrada da enciclopédia, o usuário deve ser redirecionado para aquela página; 
     * Se não corresponder ao nome de nenhuma entrada, o usuário deve ser redirecionado para uma página que exibe uma lista de todas páginas que possuem aquela palavra como substring. Por exemplo, se a pesquisa do usuário for *ython*, então *Python* deve aparecer no resultado da pesquisa;
     * Clicando no nome de qualquer um desses resultados de pesquisa, o usuário deve ser redirecionado para a página da enciclopédia daquele resultado.
