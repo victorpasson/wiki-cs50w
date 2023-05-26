@@ -40,7 +40,7 @@ Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado 
 
 5. **Editar Página** - Em cada página de resultado deve ser habilitado ao usuário clicar em um link que o leva para uma página onde pode editar o conteúdo Markdown daquela página em específico. Essa edição deve ser feita em uma *textarea*.
     * A *textarea* deve ser pré-preenchida com o conteúdo já existente para aquela página (isto é, o valor inicial de value já deve conter o conteúdo daquela página na *textarea*);
-    * Ao usuário deve ser disponível um botão para salvar as mudanças feitas;
+    * Ao usuário deve ser disponibilizado um botão para salvar as mudanças feitas;
     * Assim que salvar, o usuário deve ser redirecionado para a página modificada.
 
 6. **Página Aleatória** - clicando em “*Random Page*” o usuário deve ser levado para uma entrada aleatória da enciclopédia.
