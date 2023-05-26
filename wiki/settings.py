@@ -27,7 +27,7 @@ DEBUG = True
 
 CSRF_TRUSTED_ORIGINS = ['https://victorpasson-cuddly-space-spoon-j99pg54q7g6fjgwj-8000.preview.app.github.dev']
 
-ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', '.now.sh']
 
 
 # Application definition
@@ -116,3 +116,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATICFILES_DIRS = os.path.join(BASE_DIR, 'static')
+# Configures the staticfiles directory to serve
+# static files from /static/ on our deployment
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles', 'static')
