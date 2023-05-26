@@ -1,10 +1,8 @@
 # CS50W - Project 1 - Wiki
 
-[![Page Wiki Project](https://i.ibb.co/CVnmvBX/Opera-Instant-neo-2023-05-25-214413-wiki-cs50w-vercel-app.png)](www.youtube.com/watch?v=u0peDMCmqAE&t)
-
 Repositório que contém o código para a solução do segundo projeto do curso CS50W - Web Programming. O objetivo principal é permitir que os usuários leiam, editem e criem novos conteúdos na plataforma. A aplicação foi construída com o Django framework.
 
-[![This is an image](https://i.ibb.co/BN9zbpP/Opera-Instant-neo-2023-05-14-161802-victorpasson-github-io.png)](https://victorpasson.github.io/search-cs50w/)
+[![Page Wiki Project](https://i.ibb.co/CVnmvBX/Opera-Instant-neo-2023-05-25-214413-wiki-cs50w-vercel-app.png)](www.youtube.com/watch?v=u0peDMCmqAE&t)
 
 ## Página do Projeto
 
