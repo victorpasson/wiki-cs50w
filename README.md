@@ -38,7 +38,7 @@ Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado 
     * Quando a página é salva, se a entrada da enciclopédia já existir para aquele título, deve ser apresentado uma mensagem de erro ao usuário;
     * Caso contrário, a nova página será salva no diretório e o usuário será redirecionado a página criada.
 
-5. **Editar Página** - Em cada página de resultado, deve ser habilitado ao usuário clicar em um link que o leva para uma página onde pode editar o conteúdo Markdown daquela página em específico.E essa edição deve ser feito em uma *textarea*.
+5. **Editar Página** - Em cada página de resultado deve ser habilitado ao usuário clicar em um link que o leva para uma página onde pode editar o conteúdo Markdown daquela página em específico. Essa edição deve ser feita em uma *textarea*.
     * A *textarea* deve ser pré-preenchida com o conteúdo já existente para aquela página (isto é, o valor inicial de value já deve conter o conteúdo daquela página na *textarea*);
     * Ao usuário deve ser disponível um botão para salvar as mudanças feitas;
     * Assim que salvar, o usuário deve ser redirecionado para a página modificada.
