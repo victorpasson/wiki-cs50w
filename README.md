@@ -2,7 +2,7 @@
 
 Repositório que contém o código para a solução do segundo projeto do curso CS50W - Web Programming. O objetivo principal é permitir que os usuários leiam, editem e criem novos conteúdos na plataforma. A aplicação foi construída com o Django framework.
 
-[![Page Wiki Project](https://i.ibb.co/CVnmvBX/Opera-Instant-neo-2023-05-25-214413-wiki-cs50w-vercel-app.png)](www.youtube.com/watch?v=u0peDMCmqAE&t)
+[![Page Wiki Project](https://i.ibb.co/CVnmvBX/Opera-Instant-neo-2023-05-25-214413-wiki-cs50w-vercel-app.png)](https://www.youtube.com/watch?v=u0peDMCmqAE&t)
 
 ## Página do Projeto
 
